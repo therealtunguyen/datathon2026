@@ -5,6 +5,8 @@ This repository contains the forecasting solution for the VinDatathon 2026 Vietn
 ## Project Layout
 
 ```text
+notebooks/task1.ipynb      Task 1 Notebook to answer multiple choice questions
+notebooks/task2.ipynb      Task 2 Notebook to perform EDA
 notebooks/final.ipynb      Clean Kaggle submission notebook
 src/forecasting/           Reusable pipeline package
 scripts/train.py           Train full v3 pipeline and write artifacts
